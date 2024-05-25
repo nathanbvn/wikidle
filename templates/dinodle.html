@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DinoDle</title>
+    <link rel="stylesheet" href="../static/style/style.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.3/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="shortcut icon" href="../static/images/logo.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
+    <style>
+        #dino{
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>DinoDle</h1>
+    <div class="containerForm">
+    <form action="/dinodle" method="POST">
+        <input type="text" placeholder="Nom d'un dinosaure" name="dino_name" id="tags">
+        <button type="submit"><span>Valider</span></button>
+    </form>      
+    </div>
+    <div>
+        <p class="textDisp">
+            {{textDisp}}
+        </p>
+    </div>
+    <div class="table-container">
+    <div class="table">
+        <table id="dino-table">
+            <tr>
+                <td></td>
+                <td>Nom</td>
+                <td>Régime</td>
+                <td>Epoque</td>
+                <td>Mode de Deplacement</td>
+                <td>Région</td>
+                <td>Poids (en Tonnes)</td>
+                <td>Taille (en mètres)</th>               
+            </tr>
+        {% for item in ListTry %}
+            <tr>
+                <td class="tdimg"><img src="{{ item['img'] }}" alt="Image"/></td>
+                <td>{{ item['name'] }}</td>
+                <td>{{ item['diet'] }}</td>
+                <td>{{ item['epoch'] }}</td>
+                <td>{{ item['locomotion'] }}</td>
+                <td>{{ item['location'] }}</td>
+                <td>{{ item['weight'] }}</td>
+                <td>{{ item['height'] }}</th>
+            </tr>      
+        {% endfor %}
+    </table>
+    </div></div>
+
+    <script>
+
+        var data = {{ data | safe}};
+        var autocompleteData = [];
+        for (var key in data) {
+            if (data.hasOwnProperty(key)) {
+                autocompleteData.push({
+                    label: key,
+                    value: key,
+                    imageURL: data[key].img
+                });
+            }
+        }
+
+        $("#tags").autocomplete({
+            source: autocompleteData,
+            focus: function (event, ui) {
+                event.preventDefault();
+            },
+            select: function (event, ui) {
+                this.value = ui.item.label;
+                event.preventDefault();
+            }
+        }).autocomplete("instance")._renderItem = function (ul, item) {
+            return $("<li>")
+                .append("<div><img src='" + item.imageURL + "' style='width: 70px; height: 50px; margin-right: 10px;'>" + item.label + "</div>")
+                .appendTo(ul);
+        };
+
+
+
+        document.addEventListener("DOMContentLoaded", function() {
+        var rows = document.querySelectorAll("#dino-table tr");
+        var ListDay = {{ ListOfDay | safe }};
+        for (var i = 0; i < ListDay.length; i++) {
+            ListDay[i] = decodeURIComponent(escape(window.atob(ListDay[i])));
+        }
+        for (var i = 1; i < rows.length; i++) {
+            var columns = rows[i].querySelectorAll("td");
+            var cpt = 0;
+            for (var j = 0; j < 5; j++) {
+                var columnName = columns[j].parentNode.cells[j].textContent;
+                var cellValue = columns[j + 1].textContent;
+                if (ListDay[j].replace(/\s/g, '').includes(cellValue.replace(/\s/g, ''))) {
+                    columns[j + 1].style.backgroundColor = "orange";
+                }
+                else if (cellValue.replace(/\s/g, '').includes(ListDay[j].replace(/\s/g, ''))){
+                    columns[j + 1].style.backgroundColor = "orange";
+                }
+                else {
+                    columns[j + 1].style.backgroundColor = "red";
+                    cpt = 0;
+                    console.log("lose",j,cpt)
+                }
+                if (cellValue.replace(/\s/g, '') === ListDay[j].replace(/\s/g, '')) {
+                    columns[j + 1].style.backgroundColor = "green";
+                    cpt += 1;
+                } 
+            }
+            for (var m=6; m<8;m++){
+                
+                var columnName = columns[m].parentNode.cells[m].textContent;
+                var cellValue = columns[m].textContent.replace(/\s/g, '');
+                var nwlst = ListDay[m-1].replace(/\s/g, '')
+                if (cellValue === nwlst) {
+                    columns[m].style.backgroundColor = "green";
+                    cpt += 1;
+                } 
+                else {
+                    cpt = 0;
+                    console.log("lose",j,cpt)
+                    if (parseInt(nwlst) > parseInt(cellValue)) {
+                            columns[m].style.backgroundImage = "url('../static/images/up.png')";
+                            columns[m].style.backgroundSize = "cover"; // or "contain" depending on your preference
+                            columns[m].style.backgroundRepeat = "no-repeat";
+                        }
+                    else {
+                        columns[m].style.backgroundImage = "url('../static/images/down.png')";
+                        columns[m].style.backgroundSize = "cover"; // or "contain" depending on your preference
+                        columns[m].style.backgroundRepeat = "no-repeat";
+                    }
+                    
+                }
+        }
+        if (cpt == 7){
+            console.log("win")
+            document.querySelector("body > div:nth-child(3) > p").innerHTML = 'BRAVO !!!';
+            document.querySelector("body > div:nth-child(3) > p").style.color = 'lightgreen';
+            document.querySelector("#tags").disabled = true;
+            document.querySelector("body > div.containerForm > form > button").disabled =true;
+            console.log("Ok ")
+        }
+        else {
+            console.log("lose",cpt)
+        }
+        }
+
+
+    });
+
+    </script>
+    
+</body>
+</html>

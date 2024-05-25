@@ -1,0 +1,794 @@
+{
+    "Gon Freecss": {
+        "nameHunter": "Gon Freecss",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Noir verdatre",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP.UwtreSfqKJPvwfB4-OQ2KwHaHZ?w=169&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Kirua Zoldik": {
+        "nameHunter": "Kirua Zoldik",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Transformation",
+        "genreHunter": "Inconnu",
+        "occupationHunter": "Assassin de la Famille Zoldik, Hunter",
+        "affiliationHunter": "Famille Zoldik,Association Hunter",
+        "couleurCheuveuxHunter": "Blanc gris",
+        "imageUrlHunter": "https://i.pinimg.com/736x/2d/0a/17/2d0a17b3b3c215d28934b8ecde7de505.jpg"
+        
+    },
+    "Kurapika": {
+        "nameHunter": "Kurapika",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Materialisation Specialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Garde du corps de Neon Nostrad, Hunter",
+        "affiliationHunter": "Famille Nostrad, Association Hunter",
+        "couleurCheuveuxHunter": "Blond",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.gDEABKBNCiWbHDl0buWm7QHaHa?w=193&amp;h=193&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Hisoka": {
+        "nameHunter": "Hisoka",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Transformation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Brigade Fantome, Association Hunter",
+        "couleurCheuveuxHunter": "Rouge orange",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.qQX4CpiVpjFx4779xSgSwQHaHa?w=194&amp;h=194&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Beans": {
+        "nameHunter": "Beans",
+        "arcHunter": "Arc du 287eme Examen des Hunters",
+        "nenType": "Pas de nen",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Secretaire",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Inconnu",
+        "imageUrlHunter": "https://i.pinimg.com/originals/68/b1/50/68b1503e0ce07f282101187e72bfd451.jpg"
+        
+    },
+    "Binolt": {
+        "nameHunter": "Binolt",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Specialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Blacklist Hunter,Joueur Greed Island,Tueur en serie",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Rouges",
+        "imageUrlHunter": "https://anime.icotaku.com/uploads/personnages/personnage_1158/perso_anime_Ylfk3V50aebrNSq.jpg"
+        
+    },
+    "Buhara": {
+        "nameHunter": "Buhara",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Pas de nen",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter Gourmet",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://static1.personality-database.com/profile_images/3d737273dbdf4f48b57c2becf9bb5816.png"
+        
+    },
+    "Irumi Zoldik": {
+        "nameHunter": "Irumi Zoldik",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Assassin Zoldik, Hunter,  Brigade Fantome",
+        "affiliationHunter": "Famille Zoldik, Brigade Fantome ,Association Hunter",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP.xx0gD03SAxigzisSlllXEAAAAA?w=115&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Kaito": {
+        "nameHunter": "Kaito",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Materialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Blanc",
+        "imageUrlHunter": "https://pbs.twimg.com/media/Eu7DMH6XEAIYf_-.jpg"
+        
+    },
+    "Knuckle Bine": {
+        "nameHunter": "Knuckle Bine",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Materialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Beast Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.Rg0JLKv_hxTqawI0RN6IMQHaIz?w=157&amp;h=186&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Menchi": {
+        "nameHunter": "Menchi",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hunter gourmet",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Turquins",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/84/menchi_12748.webp"
+        
+    },
+    "Shoot MacMahon": {
+        "nameHunter": "Shoot MacMahon",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "UMA Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Violets",
+        "imageUrlHunter": "https://static1.personality-database.com/profile_images/23f93ee8d7ab45b6af0d851508cca244.png"
+        
+    },
+    "Wing": {
+        "nameHunter": "Wing",
+        "arcHunter": "Arc Tour Celeste",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/36/wing_163.webp"
+        
+    },
+    "Ging Freecs": {
+        "nameHunter": "Ging Freecs",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Inconnu",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Zodiaques,Association Hunter",
+        "couleurCheuveuxHunter": "Noir",
+        "imageUrlHunter": "https://tse2.mm.bing.net/th/id/OIP.6tcqPtpF-g0sNzWuG-4BWwHaHY?w=179&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Elena": {
+        "nameHunter": "Elena",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hacker, Hunter,Game Master",
+        "affiliationHunter": "Greed Island",
+        "couleurCheuveuxHunter": "Blancs",
+        "imageUrlHunter": "https://cdn.myanimelist.net/r/360x360/images/characters/3/202525.jpg?s=7bf6eace887c96f73098e955a53d9aa6"
+        
+    },
+    "Dwun": {
+        "nameHunter": "Dwun",
+        "arcHunter": "Arc de Green Island",
+        "nenType": "Inconnu",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Maitre du jeu Greed Island",
+        "affiliationHunter": "Greed Island",
+        "couleurCheuveuxHunter": "Bruns",
+        "imageUrlHunter": "https://tse2.mm.bing.net/th/id/OIP.TaaoQwebZXcf4u_o8EwsygHaHa?w=177&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Isaac Netero": {
+        "nameHunter": "Isaac Netero",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "President de l'Association Hunter, Hunter",
+        "affiliationHunter": "Association Hunter,Groupe Seirin",
+        "couleurCheuveuxHunter": "Blanc",
+        "imageUrlHunter": "https://i.pinimg.com/564x/bf/78/0e/bf780edcb963bf10b705527d5ba55781.jpg"
+        
+    },
+    "Parisuton Hill": {
+        "nameHunter": "Parisuton Hill",
+        "arcHunter": "Arc des Kimera Ant",
+        "nenType": "Inconnu",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Zodiaques,Association Hunter",
+        "couleurCheuveuxHunter": "Blonds",
+        "imageUrlHunter": "https://i.pinimg.com/originals/c3/0c/ce/c30cce756e0327052485590a2d89793d.jpg"
+        
+    },
+    "Kanzai": {
+        "nameHunter": "Kanzai",
+        "arcHunter": "Arc de l Election du 13eme president",
+        "nenType": "Pas de nen",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Zodiaques,Association Hunter",
+        "couleurCheuveuxHunter": "Oranges et Noirs",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.ErbOWddpSmFcp34dM2rnxgHaIs?w=185&amp;h=217&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Ponzu": {
+        "nameHunter": "Ponzu",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Vert clair",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/00/ponzu_19200.webp"
+        
+    },
+    "Mito Freecss": {
+        "nameHunter": "Mito Freecss",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Poissonniere",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Orange",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.Rr9X8ccD3SveOup6voRqGAHaJ_?w=155&amp;h=209&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Zeno Zoldik": {
+        "nameHunter": "Zeno Zoldik",
+        "arcHunter": "Arc de la famille Zoldik",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Assassin de la famille Zoldik",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Blanc",
+        "imageUrlHunter": "https://i.pinimg.com/736x/66/87/96/66879687ca7fc14d1a6b00f80b86eda7.jpg"
+        
+    },
+    "Silva Zoldik": {
+        "nameHunter": "Silva Zoldik",
+        "arcHunter": "Arc de la famille Zoldik",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Assassin de la famille Zoldik",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Blond",
+        "imageUrlHunter": "https://i.pinimg.com/550x/4a/12/8d/4a128d9e2ed3b07516fd57a2ccd07080.jpg"
+        
+    },
+    "Amane": {
+        "nameHunter": "Amane",
+        "arcHunter": "Arc de l Election du 13eme president",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Majordome de la Famille Zoldik",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://i.pinimg.com/736x/82/e8/18/82e818b6448ca7263f7d86a000806fba.jpg"
+        
+    },
+    "Tsubone": {
+        "nameHunter": "Tsubone",
+        "arcHunter": "Arc de l Election du 13eme president",
+        "nenType": "Materialisation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Majordome de la famille Zoldik",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Gris",
+        "imageUrlHunter": "https://myanimeshelf.com//upload/dynamic/2014-09/17/Tsubone_and_Amane2.png"
+        
+    },
+    "Zushi": {
+        "nameHunter": "Zushi",
+        "arcHunter": "Arc Tour celeste",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "eleve de l'ecole Shingen-Ryu",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Marron",
+        "imageUrlHunter": "https://tse2.mm.bing.net/th/id/OIP.BQVaIrdHWpGtpLhySyMEgwHaG5?w=191&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Sadaso": {
+        "nameHunter": "Sadaso",
+        "arcHunter": "Arc Tour Celeste",
+        "nenType": "Transformation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Combattants de la tour celeste",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Blancs",
+        "imageUrlHunter": "https://tse2.mm.bing.net/th/id/OIP.5itFP8qs6lqZdYCqbjHDcAHaEK?w=273&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Kastro": {
+        "nameHunter": "Kastro",
+        "arcHunter": "Arc Tour Celeste",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Combattant de la Tour celeste",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Blancs",
+        "imageUrlHunter": "https://i.pinimg.com/736x/c1/c4/f5/c1c4f5093b62d7e7467fb9624223ad10.jpg"
+        
+    },
+    "Kuroro Lucifuru": {
+        "nameHunter": "Kuroro Lucifuru",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Specialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Chef de la Brigade Fantome,Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP.DCxfTfTBPv_NpGLBKK6RWAHaFo?w=236&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Nobunaga Hazama": {
+        "nameHunter": "Nobunaga Hazama",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.a2P4x2b2uJUDs3lYb1XA-wHaJK?w=162&amp;h=201&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Feitan": {
+        "nameHunter": "Feitan",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Transformation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Noir",
+        "imageUrlHunter": "https://tse2.mm.bing.net/th/id/OIP.1OdNgKE1w_f42CjgrsaMCwHaHa?w=162&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Machi": {
+        "nameHunter": "Machi",
+        "arcHunter": "Arc Tour Celeste",
+        "nenType": "Transformation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Rose",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP.CGvXDj9snKZCKFciAMzB_AHaHa?w=197&amp;h=197&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Phinks": {
+        "nameHunter": "Phinks",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Blonds",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.e_B1rC5X3n2xtwVsKTEL5AAAAA?w=170&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Franklin": {
+        "nameHunter": "Franklin",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Bruns",
+        "imageUrlHunter": "https://cdn.personalitylist.com/avatars/7317.png"
+        
+    },
+    "Shizuku": {
+        "nameHunter": "Shizuku",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Materialisation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.LdCOV0lOLn4E5ELpiRFE_wHaHa?w=188&amp;h=188&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Pakunoda": {
+        "nameHunter": "Pakunoda",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Specialisation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Blonds",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.dCjCoZf2j1tfqEtQw3qr-gAAAA?w=158&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Neon Nostrad": {
+        "nameHunter": "Neon Nostrad",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Specialisation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Voyante",
+        "affiliationHunter": "Famille Nostrad",
+        "couleurCheuveuxHunter": "Bleu electrique",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.AGtFG_dSnG5Wp8GjL8DhhwHaLK?w=115&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Meruem": {
+        "nameHunter": "Meruem",
+        "arcHunter": "Arc Kimera Ants",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Roi des Fourmis-Chimeres",
+        "affiliationHunter": "Fourmis-Chimeres",
+        "couleurCheuveuxHunter": "Chauve",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/59/meruem_10695.webp"
+        
+    },
+    "Zazan": {
+        "nameHunter": "Zazan",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Transformation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Armee de la Reine",
+        "affiliationHunter": "Fourmis-Chimeres",
+        "couleurCheuveuxHunter": "Violets",
+        "imageUrlHunter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy29MPq_2Gt_jwUXicIuDUpr4QQ3FoHyQK81yGeq__ILTKRf9HUGF_riRiAC3tg6COPFE&usqp=CAU"
+        
+    },
+    "Meleoron": {
+        "nameHunter": "Meleoron",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Specialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Armee de la Reine",
+        "affiliationHunter": "Fourmis-Chimeres",
+        "couleurCheuveuxHunter": "Blonds",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP.lFNUm8aKoxLvZLO2GdNrEQHaGF?w=252&amp;h=207&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Leolio Paradinaito": {
+        "nameHunter": "Leolio Paradinaito",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter, Zodiaques",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.68GBCi342zrcu8RL-ckAGwAAAA?w=187&amp;h=203&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Biscuit Kruger": {
+        "nameHunter": "Biscuit Kruger",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Transformation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hunter,Joueur Greed Island",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Blonds",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/33/biscuit_krueger_12733.webp"
+        
+    },
+    "Hanzo": {
+        "nameHunter": "Hanzo",
+        "arcHunter": "Arc Examen Hunter",
+        "nenType": "Materialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Ninja, Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Chauve",
+        "imageUrlHunter": "https://i.pinimg.com/originals/c7/31/9a/c7319a517f702b4ac3ac6e1cfb4613ed.jpg"
+        
+    },
+    "Novu": {
+        "nameHunter": "Novu",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Noirs Blancs",
+        "imageUrlHunter": "https://i.pinimg.com/736x/66/67/8f/66678f25e228c2c4d79aaed98cadbdd7.jpg"
+        
+    },
+    "Senritsu": {
+        "nameHunter": "Senritsu",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Emission",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hunter, Garde du corps de Neon",
+        "affiliationHunter": "Famille Nostrad",
+        "couleurCheuveuxHunter": "Gris",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/25/senritsu_18052.webp"
+        
+    },
+    "Morau McCarnathy": {
+        "nameHunter": "Morau McCarnathy",
+        "arcHunter": "Arc Kimera Ant",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Argentes",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.ZVAR9Jfdp5ooixmnkMLuXAHaK-?w=116&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Pamu Shiberia": {
+        "nameHunter": "Pamu Shiberia",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Renforcement",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://pbs.twimg.com/media/EKJMBRVXsAAq43Y.jpg"
+        
+    },
+    "Pokkuru": {
+        "nameHunter": "Pokkuru",
+        "arcHunter": "Arc Examen Hunter",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Hunter,Association Hunter",
+        "couleurCheuveuxHunter": "Orange",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP._9xEA1Snz6E507LbkPk3TwHaGz?w=230&amp;h=211&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Satotsu": {
+        "nameHunter": "Satotsu",
+        "arcHunter": "Arc Examen Hunter",
+        "nenType": "Pas de nen",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter",
+        "affiliationHunter": "Association Hunter",
+        "couleurCheuveuxHunter": "Lavande",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP.8nzGmjeWsTwL67nxG_ZXugHaHa?w=169&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Sharnalk": {
+        "nameHunter": "Sharnalk",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Blonds",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.8Yqf6JRLhFxLEJxEIhMOfAAAAA?w=167&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Tzesugera": {
+        "nameHunter": "Tzesugera",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Inconnu",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Jackpot Hunter,Joueur Greed Island",
+        "affiliationHunter": "Battera,Association Hunter",
+        "couleurCheuveuxHunter": "Noirs, Gris",
+        "imageUrlHunter": "https://cdn.anisearch.fr/images/character/screen/6/6623/full/34302.webp"
+        
+    },
+    "Eather": {
+        "nameHunter": "Eather",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hacker ,Hunter, Game Master de Greed Island",
+        "affiliationHunter": "Greed Island",
+        "couleurCheuveuxHunter": "Blancs",
+        "imageUrlHunter": "https://cdn.myanimelist.net/r/360x360/images/characters/3/202525.jpg?s=7bf6eace887c96f73098e955a53d9aa6"
+        
+    },
+    "Rist": {
+        "nameHunter": "Rist",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Inconnu",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Game Masters de Greed Island",
+        "affiliationHunter": "Greed Island",
+        "couleurCheuveuxHunter": "Blonds",
+        "imageUrlHunter": "https://www.quizz.biz/uploads/quizz/1514311/mobile/12_7YdEk.jpg"
+        
+    },
+    "Chiidoru Yorkshire": {
+        "nameHunter": "Chiidoru Yorkshire",
+        "arcHunter": "Arc de l Election du 13eme president",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Hunter,Membre des Zodiaque, President de l'Association Hunter",
+        "affiliationHunter": "Zodiaques,Association Hunter",
+        "couleurCheuveuxHunter": "Verts",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.rlaxRyZ2lse57O06GSU3IgHaLh?w=116&amp;h=181&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Mizaisutomu Nana": {
+        "nameHunter": "Mizaisutomu Nana",
+        "arcHunter": "Arc de l Election du 13eme president",
+        "nenType": "Inconnu",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Hunter, Zodiaque ",
+        "affiliationHunter": "Zodiaques,Association Hunter",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://i.pinimg.com/736x/01/f0/98/01f098180115333449fc1113f8800227.jpg"
+        
+    },
+    "Tompa": {
+        "nameHunter": "Tompa",
+        "arcHunter": "Arc de l Examen Hunters",
+        "nenType": "Pas de nen",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Candidat a l'Examen Hunter",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Bruns",
+        "imageUrlHunter": "https://i.pinimg.com/originals/dd/82/c9/dd82c92b3a6ea2d68dc2ec0b8f898794.png"
+        
+    },
+    "Zepairu": {
+        "nameHunter": "Zepairu",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Pas de nen",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Chercheur d'Antiquites, Candidat a l'examen Hunter",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Bruns",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.AwLjn_Gb-1ND-xG85HejiQAAAA?w=115&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Kikyo Zoldik": {
+        "nameHunter": "Kikyo Zoldik",
+        "arcHunter": "Arc de la famille Zoldik",
+        "nenType": "Manipulation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Assassin de la famille Zoldik",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Noir",
+        "imageUrlHunter": "https://i.ebayimg.com/images/g/R4kAAOSwjyBka3AM/s-l1200.webp"
+        
+    },
+    "Miruki Zoldik": {
+        "nameHunter": "Miruki Zoldik",
+        "arcHunter": "Famille Zoldik",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Assassin de la Famille Zoldik, Pirate informatique",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Noir",
+        "imageUrlHunter": "https://tse3.mm.bing.net/th/id/OIP.AXDbvXhhsZdtYKI5i_MKnwHaNf?w=115&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Aruka Zoldik": {
+        "nameHunter": "Aruka Zoldik",
+        "arcHunter": "Arc des elections du 13eme president Hunter",
+        "nenType": "Specialisation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Inconnu",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Noir",
+        "imageUrlHunter": "https://tse1.mm.bing.net/th/id/OIP.UbK-EiVCmgJp0MHmrHOk5AHaHw?w=140&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Karuto Zoldik": {
+        "nameHunter": "Karuto Zoldik",
+        "arcHunter": "Arc de la Famille Zoldik",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Assassin de la Famille Zoldik ,Brigade Fantome",
+        "affiliationHunter": "Famille Zodik,Brigade Fantome",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://tse2.mm.bing.net/th/id/OIP.mCXHgqGbz_rs2gjaZ8AJqgHaNN?w=115&amp;h=180&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Kanaria": {
+        "nameHunter": "Kanaria",
+        "arcHunter": "Arc de la Famille Zoldik",
+        "nenType": "Pas de nen",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Majordome de la Famille Zoldik",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/13/kanaria_19931.webp"
+        
+    },
+    "Goto": {
+        "nameHunter": "Goto",
+        "arcHunter": "Arc de la Famille Zoldik",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Majordome de la Famille Zoldik",
+        "affiliationHunter": "Famille Zoldik",
+        "couleurCheuveuxHunter": "Noirs",
+        "imageUrlHunter": "https://i.quotev.com/vfpdytdhaaaa.jpg"
+        
+    },
+    "Guido": {
+        "nameHunter": "Guido",
+        "arcHunter": "Tour Celeste",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Combattant de la tour celeste",
+        "affiliationHunter": "Inconnu",
+        "couleurCheuveuxHunter": "Inconnu",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/83/guido_238.webp"
+        
+    },
+    "Bonorenof": {
+        "nameHunter": "Bonorenof",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Materialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Membre de la Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome,Clan Gyudondondo",
+        "couleurCheuveuxHunter": "Chauve",
+        "imageUrlHunter": "https://anime.icotaku.com/uploads/personnages/personnage_1229/perso_anime_6LNZPWGzguTMQCU.jpg"
+        
+    },
+    "Korutopi": {
+        "nameHunter": "Korutopi",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Materialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Bleu pale",
+        "imageUrlHunter": "https://tse4.mm.bing.net/th/id/OIP.zf_7mCRz3jT4P_y5apoPZgHaL1?w=120&amp;h=191&amp;c=7&amp;r=0&amp;o=5&amp;pid=1.7"
+        
+    },
+    "Uvoguine": {
+        "nameHunter": "Uvoguine",
+        "arcHunter": "Arc de York Shin City",
+        "nenType": "Renforcement",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Brigade Fantome",
+        "affiliationHunter": "Brigade Fantome",
+        "couleurCheuveuxHunter": "Bruns",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/66/uvogin_12766.webp"
+        
+    },
+    "Razor": {
+        "nameHunter": "Razor",
+        "arcHunter": "Arc de Greed Island",
+        "nenType": "Emission",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Maitre du jeu Greed Island",
+        "affiliationHunter": "Greed Island",
+        "couleurCheuveuxHunter": "Violets",
+        "imageUrlHunter": "https://ekladata.com/eW1Aa3rVLgtD6JzfJgpN8ENrAhY.png"
+        
+    },
+    "Neferupito": {
+        "nameHunter": "Neferupito",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Specialisation",
+        "genreHunter": "Feminin",
+        "occupationHunter": "Garde Royal des Fourmis-Chimeres",
+        "affiliationHunter": "Fourmis-Chimeres",
+        "couleurCheuveuxHunter": "Blancs",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/69/neferpito_10696.webp"
+        
+    },
+    "Shauapufu": {
+        "nameHunter": "Shauapufu",
+        "arcHunter": "Arc des Chimera Ants",
+        "nenType": "Manipulation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Garde Royal des Fourmis-Chimeres",
+        "affiliationHunter": "Fourmis-Chimeres",
+        "couleurCheuveuxHunter": "Blond fonce",
+        "imageUrlHunter": "https://www.nautiljon.com/images/perso/00/01/shaupfufu_10710.webp"
+        
+    },
+    "Montutyupi": {
+        "nameHunter": "Montutyupi",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Transformation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Garde Royal des Fourmis-Chimeres",
+        "affiliationHunter": "Fourmis-Chimeres",
+        "couleurCheuveuxHunter": "Violets fonces",
+        "imageUrlHunter": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/56be8406-902f-43ef-96f2-1a54f36cd1a5/dek4c9j-23e507da-7e33-4b47-bfdb-a1daf95a3289.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzU2YmU4NDA2LTkwMmYtNDNlZi05NmYyLTFhNTRmMzZjZDFhNVwvZGVrNGM5ai0yM2U1MDdkYS03ZTMzLTRiNDctYmZkYi1hMWRhZjk1YTMyODkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1kV9NNsc-PnCecINBrAauf6q-JdZ-Z98ZP4L09_w7QQ"
+        
+    },
+    "Leoru": {
+        "nameHunter": "Leoru",
+        "arcHunter": "Arc des Kimera Ants",
+        "nenType": "Specialisation",
+        "genreHunter": "Masculin",
+        "occupationHunter": "Armee de La Reine",
+        "affiliationHunter": "Fourmis-Chimeres",
+        "couleurCheuveuxHunter": "Blancs",
+        "imageUrlHunter": "https://cdn.personalitylist.com/avatars/52039.png"
+        
+    }
+}

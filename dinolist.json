@@ -1,0 +1,412 @@
+{
+    "Tyrannosaurus Rex": {
+        "weight": 9,
+        "height": 6.5,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmDIyIndn1V4WYV2Cke6n_HWx_HYdSScuq3TZFVTeIf_e7UHNClLVYobglHkc&amp;s",
+        "name": "Tyrannosaurus Rex"
+    },
+    "Velociraptor": {
+        "weight": 0.015,
+        "height": 0.5,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Asie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4hHSm0wEWm1W55WteaW4tik0LaFMQmAJ-zJazALQeQKCRTDMljNeDhFr-mw&amp;s",
+        "name": "Velociraptor"
+    },
+    "Triceratops": {
+        "weight": 12,
+        "height": 3,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Cli3Z5TpDf_eT7mCJIpsgN_mRRQjc69M6urq-zrjL3XorOcEK_GkTncweA&amp;s",
+        "name": "Triceratops"
+    },
+    "Stegosaurus": {
+        "weight": 5,
+        "height": 4,
+        "locomotion": "Quadrupède",
+        "epoch": "Jurassic",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRuSyCe3ToRglY2RhbbN2AMUbda6L50-fg2Xpi1hLrpYjUHgkDmRIWpq-13g&amp;s",
+        "name": "Stegosaurus"
+    },
+    "Brachiosaurus": {
+        "weight": 80,
+        "height": 23,
+        "locomotion": "Quadrupède",
+        "epoch": "Jurassic",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord, Afrique",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUPWdObFjpQHavDEuIPsbtnKAmtOdNt3-5xvjgHA4PdQuQFfpYjtQH4LJ8Q&amp;s",
+        "name": "Brachiosaurus"
+    },
+    "Ankylosaurus": {
+        "weight": 8,
+        "height": 2,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord, Asie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXa9XWK1h48pN5rhGJxAVvtidOTRh6bjMDyr-qR8BWP1G78BXWuSVa5ZnCoA&amp;s",
+        "name": "Ankylosaurus"
+    },
+    "Diplodocus": {
+        "weight": 20,
+        "height": 27,
+        "locomotion": "Quadrupède",
+        "epoch": "Jurassic",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiIkJfV2rISC-g5etPK2-ozRGY1dsJNROWx3jIEa_0qb4LXqYUzS2O92aup2c&amp;s",
+        "name": "Diplodocus"
+    },
+    "Allosaurus": {
+        "weight": 3,
+        "height": 3,
+        "locomotion": "Bipède",
+        "epoch": "Jurassic",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ12T05E-uShYJpnaJ--36jskWdtTsZNhY9AMnzImtkqLGhbnE6XAWPO44ug_s&amp;s",
+        "name": "Allosaurus"
+    },
+    "Spinosaurus": {
+        "weight": 20,
+        "height": 20,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Piscivore, Carnivore",
+        "location": "Afrique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-LOFPUT3bI2V1MMqp-YMmjxMKve1YTDeWmh1Z7CmccItV-VkVyrH-X0ccYto&amp;s",
+        "name": "Spinosaurus"
+    },
+    "Archaeopteryx": {
+        "weight": 0.5,
+        "height": 0.5,
+        "locomotion": "Volant",
+        "epoch": "Jurassic",
+        "diet": "Insectivore",
+        "location": "Europe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzLaR38Df3bGpXpB5lnLJ0li0SJKjdsa0DuVDd5tn0WFO9fsjBVw_JckdBeg&amp;s",
+        "name": "Archaeopteryx"
+    },
+    "Pteranodon": {
+        "weight": 25,
+        "height": 7,
+        "locomotion": "Volant",
+        "epoch": "Crétacé",
+        "diet": "Piscivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRy9VBRxr6SO40gj4q2cihqFR-feyisCT2RyczIKYN3BKuAj8fF2UVCWy5lEg&amp;s",
+        "name": "Pteranodon"
+    },
+    "Parasaurolophus": {
+        "weight": 5,
+        "height": 4,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjPuHHhGPaNbGBMmb5FHxVzhVcv-xLYjhKWPuB0cASG0OHQBMm5HzAojhQWKM&amp;s",
+        "name": "Parasaurolophus"
+    },
+    "Dilophosaurus": {
+        "weight": 0.5,
+        "height": 2,
+        "locomotion": "Bipède",
+        "epoch": "Jurassic",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDMhRuBZ2z9PhCQmCqFPn8OG4tp2clMLZScTv7vS0oS7nTMPGRLlUE1Z4biBY&amp;s",
+        "name": "Dilophosaurus"
+    },
+    "Iguanodon": {
+        "weight": 5,
+        "height": 4,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Europe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGg11S7pmvtJTWvEwJN9Cd-CzKAbVXi3KGPc25S3mEIVR9G_aedu1SYyGPIQ&amp;s",
+        "name": "Iguanodon"
+    },
+    "Carnotaurus": {
+        "weight": 2,
+        "height": 3,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Amérique du Sud",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYntz-V-8azp7jENsjBMjGePLXpSzzS16LkBdCSbs-4U5eiNK97Rm5vA6utg&amp;s",
+        "name": "Carnotaurus"
+    },
+    "Deinonychus": {
+        "weight": 0.1,
+        "height": 2,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3JRnMQtIGds0tzvoAUFWEmdzB0n9OzyPERZ2ET1O9SqVt54PPZJYRl-dfATY&amp;s",
+        "name": "Deinonychus"
+    },
+    "Apatosaurus": {
+        "weight": 25,
+        "height": 21,
+        "locomotion": "Quadrupède",
+        "epoch": "Jurassic",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZyBoYU8UjJkv_4IjURr7f_0bpnh5r0d67Ji-bSzjVSyNRIUvT2gX2Qw_MUw&amp;s",
+        "name": "Apatosaurus"
+    },
+    "Coelophysis": {
+        "weight": 0.1,
+        "height": 2,
+        "locomotion": "Bipède",
+        "epoch": "Trias",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lxS-gzSj7DV95XV_InvQyW4WPQ5K_uEtFiisoe9j_EsWhTd_ilLHsyHFjg&amp;s",
+        "name": "Coelophysis"
+    },
+    "Utahraptor": {
+        "weight": 1,
+        "height": 2,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpjNUbAfLjhiBR2pbGIHQ94D9w8XZwRfrgr7chK-d0jL6I3mN-384WnsxmxQc&amp;s",
+        "name": "Utahraptor"
+    },
+    "Microraptor": {
+        "weight": 0.5,
+        "height": 1,
+        "locomotion": "Volant",
+        "epoch": "Crétacé",
+        "diet": "Insectivore",
+        "location": "Asie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLTBWdGQmGElH0JQ1HH2FN_NxJpl15KnIosr08ekyj_yt3oGpF_KHKjDgfGUU&amp;s",
+        "name": "Microraptor"
+    },
+    "Oviraptor": {
+        "weight": 1,
+        "height": 2,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Omnivore",
+        "location": "Asie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYNH6ywDgxEHl_0_-9Fvzf1eqLQUeVEiuWfYbA5S_OdFJ6BkNfVRUt8DHOWFg&amp;s",
+        "name": "Oviraptor"
+    },
+    "Therizinosaurus": {
+        "weight": 5,
+        "height": 5,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Asie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCSC6Lxi3n3kCt72Wleq7v9nS7O2P-_2QQ76T5gW3hDvWJss4VYwwKiy-Tew&amp;s",
+        "name": "Therizinosaurus"
+    },
+    "Plateosaurus": {
+        "weight": 4,
+        "height": 2.5,
+        "locomotion": "Quadrupède",
+        "epoch": "Trias",
+        "diet": "Herbivore",
+        "location": "Europe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB5o-H4PvzuKENIHGM8yXvsyo46XTJgIygPseiQuL8QLAkdhXGTfbV51ZGhCQ&amp;s",
+        "name": "Plateosaurus"
+    },
+    "Troodon": {
+        "weight": 0.05,
+        "height": 2,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5NLIsfMFWCuDQnmLaSHmGguJjwbLaoAuaT39jWNo5G0_kMJZKQoJiDJaqg&amp;s",
+        "name": "Troodon"
+    },
+    "Baryonyx": {
+        "weight": 2,
+        "height": 3,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Piscivore",
+        "location": "Europe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5PK6Xi9jyUa58oc1D8pkfTaYQB_Xg6mkacJIlsbnAiOF4UZN1s-INUGbvWw&amp;s",
+        "name": "Baryonyx"
+    },
+    "Pachycephalosaurus": {
+        "weight": 1,
+        "height": 3,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3nU6W-334xieUsgDQpI0Cjhr1nAIiTDRPJQZvC8Rvu3_niqCAFRi67bMz8w&amp;s",
+        "name": "Pachycephalosaurus"
+    },
+    "Argentinosaurus": {
+        "weight": 100,
+        "height": 30,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Amérique du Sud",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4AhFtTkpwvIG4WBN3hYN8aXXKvIK4RvB7Eg3HXKWOd0O7q-hPJiPv-ajEBQ&amp;s",
+        "name": "Argentinosaurus"
+    },
+    "Gallimimus": {
+        "weight": 0.5,
+        "height": 3,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Omnivore",
+        "location": "Asie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxgwfvTyIXuKTO1klyJm9QMrBiur_iF04XgP88rTKZjIglPqdGuSv8wu2ugA&amp;s",
+        "name": "Gallimimus"
+    },
+    "Brontosaurus": {
+        "weight": 15,
+        "height": 22,
+        "locomotion": "Quadrupède",
+        "epoch": "Jurassic",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDj40Aq0MGKP_r3N-ZWEvVGAW1nMSETvBRmuUn_nt0ky9iaWN4wjAj_ZuLDRo&amp;s",
+        "name": "Brontosaurus"
+    },
+    "Camarasaurus": {
+        "weight": 30,
+        "height": 18,
+        "locomotion": "Quadrupède",
+        "epoch": "Jurassic",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwIXHrSv3aoVm24e5SZm7vjfL6jSMtST6RY7hZfiTteZG4g392ZJSnPi14HNI&amp;s",
+        "name": "Camarasaurus"
+    },
+    "Carcharodontosaurus": {
+        "weight": 8,
+        "height": 4,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Afrique",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwX9nG2TolxEHYoqt8SAFxtVAsbcXtmnBkrEHKNCWEYNW3savWsjWUuuT09A&amp;s",
+        "name": "Carcharodontosaurus"
+    },
+    "Ouranosaurus": {
+        "weight": 5,
+        "height": 4,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Afrique",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPpwAgj60pP9zfbUTdmcq_5qCzYUhMmjaD_AIw7vtSQmys7PAL3SWmZR0M-Q4&amp;s",
+        "name": "Ouranosaurus"
+    },
+    "Compsognathus": {
+        "weight": 0.02,
+        "height": 0.6,
+        "locomotion": "Bipède",
+        "epoch": "Jurassic",
+        "diet": "Carnivore",
+        "location": "Europe",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToyntOQMTNyJdo5XlYVXwexgd7XXalJ4Ly6ggvyvKl6NhakQhw3mnQNePYeiw&amp;s",
+        "name": "Compsognathus"
+    },
+    "Dimetrodon": {
+        "weight": 0.5,
+        "height": 3,
+        "locomotion": "Quadrupède",
+        "epoch": "Permien",
+        "diet": "Carnivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtLY__wwEzilNx0z2bPxoVfaY8LeOEDMQiitHrolqpRCR3NQYnFNdMuRzOQ&amp;s",
+        "name": "Dimetrodon"
+    },
+    "Giganotosaurus": {
+        "weight": 8,
+        "height": 5,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Carnivore",
+        "location": "Amérique du Sud",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzOyzv_imglj9iM8XgWvdupN-6yW1OAFkfYN9w0p5CJfgsUUxmotdno1vT7cE&amp;s",
+        "name": "Giganotosaurus"
+    },
+    "Suchomimus": {
+        "weight": 3,
+        "height": 4,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Piscivore",
+        "location": "Afrique",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_UWhk7s-qSpeFzEGPsP-vE8MWL-RS-vU4dzsSS0ySvWoKCQVc7wJqVERqxM8&amp;s",
+        "name": "Suchomimus"
+    },
+    "Quetzalcoatlus": {
+        "weight": 0.5,
+        "height": 10,
+        "locomotion": "Volant",
+        "epoch": "Crétacé",
+        "diet": "Piscivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaK7lamxZkDGmPN_ShhM4HRtLa6QPzkK5N7K7CAF2tkTN8i-nRh-EgtSzfvnU&amp;s",
+        "name": "Quetzalcoatlus"
+    },
+    "Amargasaurus": {
+        "weight": 3,
+        "height": 9,
+        "locomotion": "Quadrupède",
+        "epoch": "Jurassic",
+        "diet": "Herbivore",
+        "location": "Amérique du Sud",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXMhfomOzVN6ucHOxZr-Yno8OLw6AkUJ5mZvGKpm--jY3I46PZtehAEenTrw&amp;s",
+        "name": "Amargasaurus"
+    },
+    "Styracosaurus": {
+        "weight": 3,
+        "height": 2.5,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVb-8JSBOJ64jyECcm3nhwjYfMH4Z82NGq1a3mZeVb0A5pZOybT_mIZ8JqEg&amp;s",
+        "name": "Styracosaurus"
+    },
+    "Corythosaurus": {
+        "weight": 3,
+        "height": 4,
+        "locomotion": "Bipède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Amérique du Nord",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGR-A3PEmxcWi5pV-a-Dc48ZLvVcfuC6cCcbGT-byzpGWbliLUcQrN77qXA&amp;s",
+        "name": "Corythosaurus"
+    },
+    "Tsintaosaurus": {
+        "weight": 3,
+        "height": 4,
+        "locomotion": "Quadrupède",
+        "epoch": "Crétacé",
+        "diet": "Herbivore",
+        "location": "Asie",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXOH-eumW8tKRX9n7JtATDLbKaD-a_NtAAeq210KxiS7lntOWvpjQFtce8hqw&amp;s",
+        "name": "Tsintaosaurus"
+    }
+}

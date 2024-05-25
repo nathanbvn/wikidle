@@ -1,0 +1,758 @@
+{
+    "Ane": {
+        "nameAnimal": "Ane",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/ane.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Équidés",
+        "habitatAnimal": "Domestiqué",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "500",
+        "tailleAnimal": "1.6"
+    },
+    "Belette": {
+        "nameAnimal": "Belette",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/belette.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Mustélidés",
+        "habitatAnimal": "Foret",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "0.125",
+        "tailleAnimal": "0.27"
+    },
+    "Boeuf": {
+        "nameAnimal": "Boeuf",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/boeuf.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Bovidés",
+        "habitatAnimal": "Domestiqué",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "750",
+        "tailleAnimal": "1.5"
+    },
+    "Cachalot": {
+        "nameAnimal": "Cachalot",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/cachalot.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Physétéridés",
+        "habitatAnimal": "Aquatique",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "55000",
+        "tailleAnimal": "20"
+    },
+    "Caribou": {
+        "nameAnimal": "Caribou",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/caribou.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Cervidés",
+        "habitatAnimal": "Foret",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "300",
+        "tailleAnimal": "1.3"
+    },
+    "Chamois": {
+        "nameAnimal": "Chamois",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/chamois.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Bovidé",
+        "habitatAnimal": "Montagnes",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "40",
+        "tailleAnimal": "0.8"
+    },
+    "Chevre": {
+        "nameAnimal": "Chevre",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/chevre.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Bovidé",
+        "habitatAnimal": "Montagnes",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "80",
+        "tailleAnimal": "0.8"
+    },
+    "Cochon": {
+        "nameAnimal": "Cochon",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/cochon.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Suidés",
+        "habitatAnimal": "Domestiqué",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "350",
+        "tailleAnimal": "0.92"
+    },
+    "Dauphin": {
+        "nameAnimal": "Dauphin",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/dauphin.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Delphinidés",
+        "habitatAnimal": "Aquatique",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "650",
+        "tailleAnimal": "4"
+    },
+    "Furet": {
+        "nameAnimal": "Furet",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/furet.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Mustélidés",
+        "habitatAnimal": "Domestiqué",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "2",
+        "tailleAnimal": "0.6"
+    },
+    "Gorille": {
+        "nameAnimal": "Gorille",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/gorille.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Hominidé",
+        "habitatAnimal": "Foret",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "275",
+        "tailleAnimal": "1.7"
+    },
+    "Hamster": {
+        "nameAnimal": "Hamster",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/hamster.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Cricetinae",
+        "habitatAnimal": "Domestiqué",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "0.25",
+        "tailleAnimal": "0.34"
+    },
+    "Hibou": {
+        "nameAnimal": "Hibou",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/hibou.jpg",
+        "classeAnimal": "Aves",
+        "familleAnimal": "Strigidés",
+        "habitatAnimal": "Foret",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "2.7",
+        "tailleAnimal": "0.71"
+    },
+    "Jaguar": {
+        "nameAnimal": "Jaguar",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/jaguar.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Félidés",
+        "habitatAnimal": "Foret",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "100",
+        "tailleAnimal": "0.76"
+    },
+    "Lievre": {
+        "nameAnimal": "Lievre",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/lievre.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Léporidé",
+        "habitatAnimal": "Champs , Foret",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "7",
+        "tailleAnimal": "0.7"
+    },
+    "Lynx": {
+        "nameAnimal": "Lynx",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/lynx.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Félidé",
+        "habitatAnimal": "Foret , Montagnes",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "35",
+        "tailleAnimal": "0.75"
+    },
+    "Marmotte": {
+        "nameAnimal": "Marmotte",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/marmotte.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Sciuridé",
+        "habitatAnimal": "Montagnes",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "9",
+        "tailleAnimal": "0.66"
+    },
+    "Mouton": {
+        "nameAnimal": "Mouton",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/mouton.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Bovidé",
+        "habitatAnimal": "Domestiqué , Plaines",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "100",
+        "tailleAnimal": "0.5"
+    },
+    "Orang-outan": {
+        "nameAnimal": "Orang-outan",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/orang-outan.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Hominidé",
+        "habitatAnimal": "Foret",
+        "regimeAnimal": "Omnivore",
+        "poidsAnimal": "90",
+        "tailleAnimal": "1.5"
+    },
+    "Ours": {
+        "nameAnimal": "Ours",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/ours.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Ursidé",
+        "habitatAnimal": "Montagnes , Foret",
+        "regimeAnimal": "Omnivore",
+        "poidsAnimal": "700",
+        "tailleAnimal": "3.5"
+    },
+    "Poney": {
+        "nameAnimal": "Poney",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/poney.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Équidé",
+        "habitatAnimal": "Domestiqué",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "500",
+        "tailleAnimal": "1.5"
+    },
+    "Putois": {
+        "nameAnimal": "Putois",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/putois.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Mustélidé",
+        "habitatAnimal": "Foret",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "1.7",
+        "tailleAnimal": "0.5"
+    },
+    "Requin": {
+        "nameAnimal": "Requin",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/requin.jpg",
+        "classeAnimal": "Chrondrichtye",
+        "familleAnimal": "Lamnidé",
+        "habitatAnimal": "Aquatique",
+        "regimeAnimal": "Carnivore",
+        "poidsAnimal": "3000",
+        "tailleAnimal": "6.4"
+    },
+    "Suricate": {
+        "nameAnimal": "Suricate",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/suricate.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Herpestidé",
+        "habitatAnimal": "Desert",
+        "regimeAnimal": "Omnivore",
+        "poidsAnimal": "1",
+        "tailleAnimal": "0.5"
+    },
+    "Vache": {
+        "nameAnimal": "Vache",
+        "imgAnimal": "https://www.zoologiste.com//images/listing/vache.jpg",
+        "classeAnimal": "Mammifère",
+        "familleAnimal": "Bovidé",
+        "habitatAnimal": "Domestiqué, Plaines",
+        "regimeAnimal": "Herbivore",
+        "poidsAnimal": "750",
+        "tailleAnimal": "1.4"
+    },
+        "Antilope": {
+            "nameAnimal": "Antilope",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/antilope.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Bovidés",
+            "habitatAnimal": "Savane, Plaines",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "43",
+            "tailleAnimal": "0.80"
+        },
+        "Beluga": {
+            "nameAnimal": "Beluga",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/beluga.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Mondontidae",
+            "habitatAnimal": "Aquatique",
+            "regimeAnimal": "Carnivore",
+            "poidsAnimal": "1500",
+            "tailleAnimal": "6"
+        },
+        "Bonobo": {
+            "nameAnimal": "Bonobo",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/bonobo.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Hominidés",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Omnivore",
+            "poidsAnimal": "45",
+            "tailleAnimal": "1"
+        },
+        "Capucin": {
+            "nameAnimal": "Capucin",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/capucin.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Cébidés",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Omnivore",
+            "poidsAnimal": "4",
+            "tailleAnimal": "0.45"
+        },
+        "Cerf": {
+            "nameAnimal": "Cerf",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/cerf.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Cervidés",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "180",
+            "tailleAnimal": "1.45"
+        },
+        "Chat": {
+            "nameAnimal": "Chat",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/chat.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Félidés",
+            "habitatAnimal": "Domestiqué",
+            "regimeAnimal": "Carnivore",
+            "poidsAnimal": "4.5",
+            "tailleAnimal": "0.25"
+        },
+        "Chevreuil": {
+            "nameAnimal": "Chevreuil",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/chevreuil.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Cervidés",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "35",
+            "tailleAnimal": "0.7"
+        },
+        "Coyote": {
+            "nameAnimal": "Coyote",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/coyote.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Canidé",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Carnivore",
+            "poidsAnimal": "21",
+            "tailleAnimal": "0.66"
+        },
+        "Dromadaire": {
+            "nameAnimal": "Dromadaire",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/dromadaire.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Camélidés",
+            "habitatAnimal": "Desert",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "1100",
+            "tailleAnimal": "2.5"
+        },
+        "Epaulard": {
+            "nameAnimal": "Epaulard",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/epaulard.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Delphinidés",
+            "habitatAnimal": "Aquatique",
+            "regimeAnimal": "Piscivore",
+            "poidsAnimal": "8000",
+            "tailleAnimal": "9"
+        },
+        "Gazelle": {
+            "nameAnimal": "Gazelle",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/gazelle.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Bovidé",
+            "habitatAnimal": "Savane",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "75",
+            "tailleAnimal": "1.2"
+        },
+        "Grenouille": {
+            "nameAnimal": "Grenouille",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/grenouille.jpg",
+            "classeAnimal": "Amphibie",
+            "familleAnimal": "Ranidé",
+            "habitatAnimal": "Aquatique",
+            "regimeAnimal": "Omnivore",
+            "poidsAnimal": "0.02",
+            "tailleAnimal": "0.12"
+        },
+        "Hemione": {
+            "nameAnimal": "Hemione",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/hemione.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Équidé",
+            "habitatAnimal": "Montagnes, Desert",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "300",
+            "tailleAnimal": "1.4"
+        },
+        "Hippopotame": {
+            "nameAnimal": "Hippopotame",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/hippopotame.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Hippopotamidé",
+            "habitatAnimal": "Savane, Aquatique",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "3200",
+            "tailleAnimal": "4.5"
+        },
+        "Lama": {
+            "nameAnimal": "Lama",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/lama.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Camélidé",
+            "habitatAnimal": "Montagnes, Plaines",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "200",
+            "tailleAnimal": "1.8"
+        },
+        "Lion": {
+            "nameAnimal": "Lion",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/lion.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Félidé",
+            "habitatAnimal": "Savane",
+            "regimeAnimal": "Carnivore",
+            "poidsAnimal": "175",
+            "tailleAnimal": "1.2"
+        },
+        "Macaque": {
+            "nameAnimal": "Macaque",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/macaque.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Cercopithécidé",
+            "habitatAnimal": "Foret, Montagnes",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "15",
+            "tailleAnimal": "57"
+        },
+        "Marsouin": {
+            "nameAnimal": "Marsouin",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/marsouin.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Phocoenidé",
+            "habitatAnimal": "Aquatique",
+            "regimeAnimal": "Piscivore",
+            "poidsAnimal": "80",
+            "tailleAnimal": "2"
+        },
+        "Narval": {
+            "nameAnimal": "Narval",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/narval.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Monodontidé",
+            "habitatAnimal": "Aquatique, Océan Arctique",
+            "regimeAnimal": "Piscivore",
+            "poidsAnimal": "1500",
+            "tailleAnimal": "5"
+        },
+        "Orque": {
+            "nameAnimal": "Orque",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/orque.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Delphinidé",
+            "habitatAnimal": "Aquatique",
+            "regimeAnimal": "Piscivore",
+            "poidsAnimal": "9000",
+            "tailleAnimal": "9"
+        },
+        "Panda": {
+            "nameAnimal": "Panda",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/panda.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Ursidé",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "125",
+            "tailleAnimal": "1.65"
+        },
+        "Porc": {
+            "nameAnimal": "Porc",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/porc.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Suidé",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Omnivore",
+            "poidsAnimal": "360",
+            "tailleAnimal": "0.92"
+        },
+        "Rhinoceros": {
+            "nameAnimal": "Rhinoceros",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/rhinoceros.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Rhinocérotidé",
+            "habitatAnimal": "Savane , Plaines, Foret",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "3000",
+            "tailleAnimal": "2"
+        },
+        "Tapir": {
+            "nameAnimal": "Tapir",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/tapir.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Tapiridé",
+            "habitatAnimal": "Foret",
+            "regimeAnimal": "Omnivore",
+            "poidsAnimal": "300",
+            "tailleAnimal": "1"
+        },
+        "Yack": {
+            "nameAnimal": "Yack",
+            "imgAnimal": "https://www.zoologiste.com//images/listing/yack.jpg",
+            "classeAnimal": "Mammifère",
+            "familleAnimal": "Bovidé",
+            "habitatAnimal": "Montagnes, Plaines",
+            "regimeAnimal": "Herbivore",
+            "poidsAnimal": "1000",
+            "tailleAnimal": "2"
+        },
+            "Babouin": {
+                "nameAnimal": "Babouin",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/babouin.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Cercopithecoidae",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "25",
+                "tailleAnimal": "0.84"
+            },
+            "Bison": {
+                "nameAnimal": "Bison",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/bison.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Bovidés",
+                "habitatAnimal": "Foret, Plaines",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "1000",
+                "tailleAnimal": "2"
+            },
+            "Bouquetin": {
+                "nameAnimal": "Bouquetin",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/bouquetin.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Bovidé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "70",
+                "tailleAnimal": "1.05"
+            },
+            "Capybara": {
+                "nameAnimal": "Capybara",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/capybara.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Cavidés",
+                "habitatAnimal": "Plaines, Forets, Domestiqué",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "65",
+                "tailleAnimal": "1"
+            },
+            "Chacal": {
+                "nameAnimal": "Chacal",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/chacal.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Canidés",
+                "habitatAnimal": "Savane, Foret, Desert",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "14",
+                "tailleAnimal": "0.5"
+            },
+            "Chauve-souris": {
+                "nameAnimal": "Chauve-souris",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/chauve-souris.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Notamment celle des vespertilionidés",
+                "habitatAnimal": "Foret Grottes",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "1",
+                "tailleAnimal": "0.25"
+            },
+            "Chien": {
+                "nameAnimal": "Chien",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/chien.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Canidé",
+                "habitatAnimal": "Domestiqué",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "90",
+                "tailleAnimal": "0.72"
+            },
+            "Crocodile": {
+                "nameAnimal": "Crocodile",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/crocodile.jpg",
+                "classeAnimal": "Reptile",
+                "familleAnimal": "Crocodilidés",
+                "habitatAnimal": "Aquatique",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "1000",
+                "tailleAnimal": "5"
+            },
+            "Ecureuil": {
+                "nameAnimal": "Ecureuil",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/ecureuil.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Sciuridé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "1",
+                "tailleAnimal": "0.3"
+            },
+            "Fennec": {
+                "nameAnimal": "Fennec",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/fennec.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Canidés",
+                "habitatAnimal": "Desert",
+                "regimeAnimal": "Omnivore",
+                "poidsAnimal": "2",
+                "tailleAnimal": "0.4"
+            },
+            "Gibbon": {
+                "nameAnimal": "Gibbon",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/gibbon.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Hylobatidés",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Omnivore",
+                "poidsAnimal": "8",
+                "tailleAnimal": "0.9"
+            },
+            "Grizzli": {
+                "nameAnimal": "Grizzli",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/grizzli.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Ursidé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Omnivore",
+                "poidsAnimal": "700",
+                "tailleAnimal": "3.5"
+            },
+            "Herisson": {
+                "nameAnimal": "Herisson",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/herisson.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Erinaceidae",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Omnivore",
+                "poidsAnimal": "0.7",
+                "tailleAnimal": "0.15"
+            },
+            "Hyene": {
+                "nameAnimal": "Hyene",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/hyene.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Hyénidé",
+                "habitatAnimal": "Savane",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "85",
+                "tailleAnimal": "0.92"
+            },
+            "Loup": {
+                "nameAnimal": "Loup",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/loup.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Canidé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "80",
+                "tailleAnimal": "0.9"
+            },
+            "Manchot": {
+                "nameAnimal": "Manchot",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/manchot.jpg",
+                "classeAnimal": "Aves",
+                "familleAnimal": "Sphéniscidé",
+                "habitatAnimal": "Aquatique",
+                "regimeAnimal": "Piscivore",
+                "poidsAnimal": "40",
+                "tailleAnimal": "1"
+            },
+            "Morse": {
+                "nameAnimal": "Morse",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/morse.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Odobénidé",
+                "habitatAnimal": "Aquatique",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "1000",
+                "tailleAnimal": "3.2"
+            },
+            "Nasique": {
+                "nameAnimal": "Nasique",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/nasique.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Cercopithécidé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "25",
+                "tailleAnimal": "0.8"
+            },
+            "Oryx": {
+                "nameAnimal": "Oryx",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/oryx.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Bovidé",
+                "habitatAnimal": "Savane",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "200",
+                "tailleAnimal": "1.2"
+            },
+            "Panthere": {
+                "nameAnimal": "Panthere",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/panthere.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Félidé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "90",
+                "tailleAnimal": "1.5"
+            },
+            "Poule": {
+                "nameAnimal": "Poule",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/poule.jpg",
+                "classeAnimal": "Aves",
+                "familleAnimal": "Phasianidé",
+                "habitatAnimal": "Foret, Domestiqué",
+                "regimeAnimal": "Omnivore",
+                "poidsAnimal": "2.8",
+                "tailleAnimal": "0.55"
+            },
+            "Renard": {
+                "nameAnimal": "Renard",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/renard.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Canidé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Omnivore",
+                "poidsAnimal": "15",
+                "tailleAnimal": "0.5"
+            },
+            "Serval": {
+                "nameAnimal": "Serval",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/serval.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Félidé",
+                "habitatAnimal": "Savane",
+                "regimeAnimal": "Carnivore",
+                "poidsAnimal": "26",
+                "tailleAnimal": "1.1"
+            },
+            "Taupe": {
+                "nameAnimal": "Taupe",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/taupe.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Talpidé",
+                "habitatAnimal": "Foret",
+                "regimeAnimal": "Insectivore",
+                "poidsAnimal": "0.08",
+                "tailleAnimal": "0.13"
+            },
+            "Zebre": {
+                "nameAnimal": "Zebre",
+                "imgAnimal": "https://www.zoologiste.com//images/listing/zebre.jpg",
+                "classeAnimal": "Mammifère",
+                "familleAnimal": "Équidé",
+                "habitatAnimal": "Savane",
+                "regimeAnimal": "Herbivore",
+                "poidsAnimal": "450",
+                "tailleAnimal": "1.6"
+            }
+        
+
+
+}
+    
+
+

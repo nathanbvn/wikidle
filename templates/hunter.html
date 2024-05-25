@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HunterxHunterDle</title>
+    <link rel="stylesheet" href="../static/style/style.css">
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.3/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.3/jquery-ui.js"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="shortcut icon" href="../static/images/logo.png" type="image/x-icon">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&display=swap" rel="stylesheet">
+    <style>
+        
+        #dino{
+            display: none;
+        }
+
+        td{
+            background-color: rgba(0, 0, 0, 0.3);
+        }
+
+    </style>
+</head>
+
+<body>
+    <h1>HunterxHunterDle</h1>
+    <div class="containerForm">
+    <form action="/hunterdle" method="POST">
+        <input type="text" placeholder="Nom d'un Personnage" name="hunter_name" id="tags">
+        <button type="submit"><span>Valider</span></button>
+    </form>      
+    </div>
+    <div>
+        <p class="textDisp">
+            {{textDisp}}
+        </p>
+    </div>
+    <div class="table-container">
+    <div class="table">
+        <table id="hunter-table">
+            <tr>
+                <td></td>
+                <td>Nom</td>
+                <td>Type de Nen</td>
+                <td>Genre</td>
+                <td>Occupation</td>
+                <td>Affiliation</td>
+                <td>Premiere Apparition</td>
+                <td>Couleur de cheveux</th>               
+            </tr>
+        {% for item in ListTry %}
+            <tr>
+                <td class="tdimg"><img src="{{ item['imageUrlHunter'] }}" style="height: 162px;width: 162px;" alt="Image"/></td>
+                <td>{{ item['nameHunter'] }}</td>
+                <td>{{ item['nenType'] }}</td>
+                <td>{{ item['genreHunter'] }}</td>
+                <td>{{ item['occupationHunter'] }}</td>
+                <td>{{ item['affiliationHunter'] }}</td>
+                <td>{{ item['arcHunter'] }}</td>
+                <td>{{ item['couleurCheuveuxHunter'] }}</th>
+            </tr>      
+        {% endfor %}
+    </table>
+    </div></div>
+
+    <script>
+        
+        document.body.style.backgroundImage = "url('https://i.pinimg.com/originals/ea/ab/46/eaab4660500c75b519b5c76f96647673.jpg')";
+        var data = {{ data | safe}};
+        var autocompleteData = [];
+        for (var key in data) {
+            if (data.hasOwnProperty(key)) {
+                autocompleteData.push({
+                    label: key,
+                    value: key,
+                    imageURL: data[key].imageUrlHunter
+                });
+            }
+        }
+
+        $("#tags").autocomplete({
+            source: autocompleteData,
+            focus: function (event, ui) {
+                event.preventDefault();
+            },
+            select: function (event, ui) {
+                this.value = ui.item.label;
+                event.preventDefault();
+            }
+        }).autocomplete("instance")._renderItem = function (ul, item) {
+            return $("<li>")
+                .append("<div><img src='" + item.imageURL + "' style='width: 50px; height: 50px; margin-right: 10px;'>" + item.label + "</div>")
+                .appendTo(ul);
+        };
+
+
+        document.addEventListener("DOMContentLoaded", function() {
+        var rows = document.querySelectorAll("#hunter-table tr");
+        var ListDay = {{ ListOfDay | safe }};
+        for (var i = 0; i < ListDay.length; i++) {
+            ListDay[i] = decodeURIComponent(escape(window.atob(ListDay[i])));
+        }
+        
+        for (var i = 1; i < rows.length; i++) {
+            var columns = rows[i].querySelectorAll("td");
+            var cpt = 0;
+            for (var j = 0; j < 7; j++) {
+                var columnName = columns[j].parentNode.cells[j].textContent;
+                var cellValue = columns[j + 1].textContent;
+                if (ListDay[j].replace(/\s/g, '').includes(cellValue.replace(/\s/g, ''))) {
+                    columns[j + 1].style.backgroundColor = "orange";
+                }
+                else if (cellValue.replace(/\s/g, '').includes(ListDay[j].replace(/\s/g, ''))){
+                    columns[j + 1].style.backgroundColor = "orange";
+                }
+                else {
+                    columns[j + 1].style.backgroundColor = "red";
+                    cpt = 0;
+                    console.log("lose",j,cpt)
+                }
+                if (cellValue.replace(/\s/g, '') === ListDay[j].replace(/\s/g, '')) {
+                    columns[j + 1].style.backgroundColor = "green";
+                    cpt += 1;
+                }
+                    
+                }
+        
+        if (cpt == 7){
+            console.log("win")
+            document.querySelector("body > div:nth-child(3) > p").innerHTML = 'BRAVO !!!';
+            document.querySelector("body > div:nth-child(3) > p").style.color = 'lightgreen';
+            document.querySelector("#tags").disabled = true;
+            document.querySelector("body > div.containerForm > form > button").disabled =true;
+            console.log("Ok ")
+        }
+        else {
+            console.log("lose",cpt)
+        }}
+    
+    });
+
+    </script>
+    
+</body>
+</html>
