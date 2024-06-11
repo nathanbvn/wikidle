@@ -1,43 +1,191 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PlayDle !</title>
-    <link rel="stylesheet" href="../static/style/styleMain.css">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Jaro:opsz@6..72&display=swap" rel="stylesheet">
-</head>
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+    <title>WikiDle</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../static/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="../static/assets/css/fontawesome.css">
+    <link rel="stylesheet" href="../static/assets/css/templatemo-cyborg-gaming.css">
+    <link rel="stylesheet" href="../static/assets/css/owl.css">
+    <link rel="stylesheet" href="../static/assets/css/animate.css">
+    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
+<!--
+
+TemplateMo 579 Cyborg Gaming
+
+https://templatemo.com/tm-579-cyborg-gaming
+
+-->
+  </head>
+
 <body>
-    <h1>WikiDle !</h1>
-    <div class="gallery">
-        <div class="image-container">
-            <a href="/hunterdle">
-                <img src="../static/images/hunter.png" alt="Image 3">
-                <div class="image-title">HunterxHunterDle</div>
-            </a>
-        </div>
-        <div class="image-container">
-            <a href="/animaldle">
-                <img src="../static/images/animal.png" alt="Image 4">
-                <div class="image-title">AnimauxDle</div>
-            </a>
-        </div>
-        <div class="image-container">
-            <a href="/dinodle">
-                <img src="../static/images/dinosaur.png" alt="Image 1">
-                <div class="image-title">DinoDle</div>
-            </a>
-        </div>
-        <div class="image-container">
-            <a href="https://geodle.onrender.com/">
-                <img src="../static/images/geodle.png" alt="Image 2">
-                <div class="image-title">GeoDle</div>
-            </a>
+
+  <!-- ***** Preloader Start ***** -->
+  <div id="js-preloader" class="js-preloader">
+    <div class="preloader-inner">
+      <span class="dot"></span>
+      <div class="dots">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </div>
+  <!-- ***** Preloader End ***** -->
+
+  <!-- ***** Header Area Start ***** -->
+  <header class="header-area header-sticky">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <nav class="main-nav">
+                    <!-- ***** Logo Start ***** -->
+                    <a href="/index" class="logo">
+                        <img src="../static/images/Wikidle.png" alt="WikiDle Logo" style="padding-top: 1px !important; top: 2px !important; width: 190px;">
+                    </a>
+                    <!-- ***** Logo End ***** -->
+                    <!-- ***** Menu Start ***** -->
+                    <ul class="nav">
+                        <li><a href="https://github.com/nathanbvn/wikidle" target="_blank">Github <img src="../static/images/github.png" alt="Github Logo"></a></li>
+                    </ul>   
+                    <a class='menu-trigger'>
+                        <span>Menu</span>
+                    </a>
+                    <!-- ***** Menu End ***** -->
+                </nav>
+            </div>
         </div>
     </div>
+  </header>
+  <!-- ***** Header Area End ***** -->
 
-    <script src="script.js"></script>
-</body>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="page-content">
+
+          <!-- ***** Banner Start ***** -->
+          <div class="main-banner">
+            <div class="row">
+              <div class="col-lg-7">
+                <div class="header-text">
+                  <h6>Welcome To WikiDle</h6>
+                  <h4><em>Browse</em> Our Popular Games Here</h4>
+                  <div class="main-button">
+                    <a href="#browse-now">Browse Now</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- ***** Banner End ***** -->
+
+          <!-- ***** Most Popular Start ***** -->
+          <div class="most-popular" id="browse-now">
+            <div class="row">
+              <div class="col-lg-12">
+                <div class="heading-section">
+                  <h4><em>All</em> our games</h4>
+                </div>
+                <div class="row">
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <a href="/hunterdle" target="_blank"><img src="../static/images/hunter.png" alt=""></a>
+                      <h4>HunterxHunterDle<br><span>Anime</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 5</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <a href="/animaldle" target="_blank"><img src="../static/images/animal.png" alt=""></a>
+                      <h4>AnimauxDle<br><span>Animals</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 5</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <a href="/dinodle" target="_blank"><img src="../static/images/dinosaur.png" alt=""></a>
+                      <h4>DinoDle<br><span>Animals</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 5</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <a href="https://geodle.onrender.com/" target="_blank"><img src="../static/images/geodle.png" alt=""></a>
+                      <h4>GeoDle<br><span>Geography</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 5</li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                    <div class="item">
+                      <a href="/landscape" target="_blank"><img src="../static/images/landscape.webp" alt=""></a>
+                      <h4>LandscapeGuessr<br><span>Geography</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 5</li>
+                      </ul>
+                    </div>
+                  </div>
+
+                  <div class="col-lg-12">
+                    <div class="main-button">
+                      <a href="https://github.com/nathanbvn/wikidle/issues">Suggest a game</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- ***** Most Popular End ***** -->
+
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <p>Copyright © 2024 <a href="#">WikiDle</a>. All rights reserved | made with ❤ by nathanbvn & 0adri3n 
+          
+          <br>Design: <a href="https://templatemo.com" target="_blank" title="free CSS templates">TemplateMo</a></p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- Scripts -->
+  <!-- Bootstrap core JavaScript -->
+  <script src="../static/vendor/jquery/jquery.min.js"></script>
+  <script src="../static/vendor/bootstrap/js/bootstrap.min.js"></script>
+
+  <script src="../static/assets/js/isotope.min.js"></script>
+  <script src="../static/assets/js/owl-carousel.js"></script>
+  <script src="../static/assets/js/tabs.js"></script>
+  <script src="../static/assets/js/popup.js"></script>
+  <script src="../static/assets/js/custom.js"></script>
+
+
+  </body>
+
 </html>
